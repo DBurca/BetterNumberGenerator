@@ -16,3 +16,4 @@ This will optimize the program for touchscreen devices.
 * 5/7 - Project initialized
 * 5/8 - Touchscreen support added
 * 5/9 - Touchscreen bug fixed
+* 5/10 - Minor Aesthetic improvements
