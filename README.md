@@ -1,5 +1,5 @@
 # BetterNumberGenerator
- A better number generator built for a small school project
+ A better number generator built for a small school project. Made in Construct 3.
 
 ## Elimination Mode:
  Elimination Mode is a function that "eliminates" numbers as they are rolled.
